@@ -1,6 +1,5 @@
 import turtle
 
-
 def flags():
     # object of turtle module class
     flag = turtle.Turtle()
@@ -61,6 +60,7 @@ def flags():
         flag.left(14)
 
     flag.penup()
+
 
 
 # flags()
