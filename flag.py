@@ -61,6 +61,4 @@ def flags():
 
     flag.penup()
 
-
-
 # flags()
