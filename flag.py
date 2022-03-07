@@ -5,6 +5,7 @@ def flags():
     flag = turtle.Turtle()
 
     # function for blue wheel
+  
 
     # flag outline
     flag.penup()
