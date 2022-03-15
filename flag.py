@@ -1,3 +1,6 @@
+# python gui program that prints beautiful Indian Flag
+
+# Improting and using turtle package
 import turtle
 
 def flags():
@@ -6,7 +9,6 @@ def flags():
 
     # function for blue wheel
   
-
     # flag outline
     flag.penup()
     flag.setposition(100, 80)
